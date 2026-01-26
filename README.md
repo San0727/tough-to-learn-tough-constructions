@@ -2,7 +2,7 @@
 
 This repository contains the datasets used in the paper:
 
-<strong>Tough to Learn Tough Constructions</strong><br> <em>On the Gap Between Formal and Functional Competence in GPT Models</em>
+<strong>Tough to Learn Tough Constructions: On the Gap Between Formal and Functional Competence in GPT Models</strong><br>
 
 The datasets were constructed to evaluate large language models’ sensitivity to the syntactic and semantic properties of English *Tough Constructions* using prompt-based acceptability judgment tasks.
 
@@ -12,7 +12,7 @@ The datasets were constructed to evaluate large language models’ sensitivity t
 
 The goal of this dataset is to investigate the potential gap between <strong>formal linguistic competence</strong> (e.g., syntactic well-formedness) and <strong>functional linguistic competence</strong> (e.g., context-sensitive semantic appropriateness) in large language models.
 
-To this end, we designed controlled experimental materials grounded in prior theoretical work on Tough Constructions (e.g., Hicks 2009; Mortier 2022). All sentences and contexts were manually constructed and are not drawn from existing corpora.
+To this end, we designed controlled experimental materials grounded in prior theoretical work on Tough Constructions in English. All sentences and contexts were manually constructed and are not drawn from existing corpora.
 
 ---
 
@@ -47,7 +47,7 @@ Each item set varies along two dimensions:
 
 ### Experiment II: Semantic Sensitivity
 
-Experiment II examines whether language models capture context-dependent semantic distinctions among different variants of Tough Constructions. The design follows the scenarios proposed by Mortier (2022), where the source of difficulty arises from:
+Experiment II examines whether language models capture context-dependent semantic distinctions among different variants of Tough Constructions, where the source of difficulty arises from:
 
 * the object,
 * the goal, or
