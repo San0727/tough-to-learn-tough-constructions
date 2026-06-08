@@ -2,7 +2,7 @@
 
 This repository contains the datasets used in the paper:
 
-<strong>Tough to Learn Tough Constructions: On the Gap Between Formal and Functional Competence in GPT Models</strong><br>
+<strong>Tough to Learn Tough Constructions: On the Gap Between Formal and Functional Competence in LLMs</strong><br>
 
 The datasets were constructed to evaluate large language models’ sensitivity to the syntactic and semantic properties of English *Tough Constructions* using prompt-based acceptability judgment tasks.
 
@@ -21,7 +21,7 @@ To this end, we designed controlled experimental materials grounded in prior the
 The repository contains four datasets corresponding to two experiments reported in the paper:
 
 * <strong>Experiment I (Syntax)</strong>
-  A syntactic acceptability dataset contrasting Tough Constructions and Subject-Control Constructions, with and without the required gap in the embedded clause.
+  A syntactic acceptability dataset contrasting tough constructions and subject-control Constructions, with and without the required gap in the embedded clause.
 
 * <strong>Experiment II (Semantics)</strong>
   Three semantic acceptability datasets testing different contextual sources of difficulty:
@@ -38,16 +38,16 @@ Each dataset consists of multiple item sets designed for prompt-based acceptabil
 
 ### Experiment I: Syntactic Sensitivity
 
-Experiment I tests whether language models are sensitive to the syntactic constraint that prohibits an overt object in the embedded infinitival clause of Tough Constructions, in contrast to Subject-Control Constructions.
+Experiment I tests whether language models are sensitive to the syntactic constraint that prohibits an overt object in the embedded infinitival clause of tough constructions, in contrast to subject-control constructions.
 
 Each item set varies along two dimensions:
 
-* Construction type (Tough vs. Subject-Control)
+* Construction type (tough vs. subject-control)
 * Presence vs. absence of a syntactic gap
 
 ### Experiment II: Semantic Sensitivity
 
-Experiment II examines whether language models capture context-dependent semantic distinctions among different variants of Tough Constructions, where the source of difficulty arises from:
+Experiment II examines whether language models capture context-dependent semantic distinctions among different variants of tough constructions, where the source of difficulty arises from:
 
 * the object,
 * the goal, or
@@ -89,7 +89,7 @@ When using these materials, please ensure that the experimental design and theor
 
 If you use this dataset, please cite the following paper:
 
-> [Authors]. (Year). *Tough to Learn Tough Constructions: On the Gap Between Formal and Functional Competence in GPT Models*.
+> [Authors]. (Year). *Tough to Learn Tough Constructions: On the Gap Between Formal and Functional Competence in LLMs*.
 
 (Details to be updated upon publication.)
 
