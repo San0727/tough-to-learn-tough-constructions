@@ -1,4 +1,4 @@
-# Dataset for Tough to Learn Tough Constructions
+# Tough to Learn Tough Constructions: On the Gap Between Formal and Functional Competence in LLMs
 
 This repository contains the datasets used in the paper:
 
